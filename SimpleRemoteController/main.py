@@ -1,3 +1,11 @@
+"""
+Created on Sun May 28 16:48:17 2023
+
+@author: Utku ARSLAN
+
+Apache-2.0 license
+"""
+
 # Import the Required libraries
 from tkinter import *
 import socket
